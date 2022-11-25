@@ -3,6 +3,19 @@
   "displayName": "Dark theme",
   "description": "Its the dark theme for developers",
   "version": "0.0.1",
+  "publisher": "SIRILMP",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirilmp/dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark-theme",
+    "high contrast dark theme",
+    "high-contrast-dark-theme",
+    "Dark theme"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
