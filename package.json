@@ -5,6 +5,7 @@
   "version": "2.2.1",
   "publisher": "SIRILMP",
   "license": "MIT",
+  "author": "SIRIL M PHILIP",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -22,10 +23,12 @@
     "Dark theme"
   ],
   "engines": {
-    "vscode": "^1.73.0"
+    "node": "<=10",
+    "vscode": "^1.41.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [

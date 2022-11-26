@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 2.2.2
+
+- package.json update
+
 ## 2.2.1
 
 - CHANGELOG update
