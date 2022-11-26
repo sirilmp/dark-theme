@@ -2,7 +2,7 @@
   "name": "dark-theme-sm",
   "displayName": "Dark theme",
   "description": " dark theme for VS Code",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "SIRILMP",
   "license": "MIT",
   "icon": "icon.png",
