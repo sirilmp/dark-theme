@@ -1,12 +1,17 @@
 {
   "name": "dark-theme-sm",
   "displayName": "Dark theme",
-  "description": "Its the dark theme for developers",
+  "description": " dark theme for VS Code",
   "version": "0.0.1",
   "publisher": "SIRILMP",
+  "license": "MIT",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/sirilmp/dark-theme-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/sirilmp/dark-theme-vscode/issues"
   },
   "keywords": [
     "theme",

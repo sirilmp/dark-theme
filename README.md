@@ -12,7 +12,7 @@ I know most of the developers are liked dark themes so that's why I created only
 
 ### 🐞🐞 For Bugs 🐞🐞
 
-* [github](https://github.com/sirilmp/dark-theme-vscode)
+* [github](https://github.com/sirilmp/dark-theme-vscode/issues)
 
 
 ### ⭐⭐ Star Rate & Write a Review ⭐⭐
