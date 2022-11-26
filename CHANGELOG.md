@@ -1,9 +1,28 @@
-# Change Log
 
-All notable changes to the "dark-theme" extension will be documented in this file.
+# dark-theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 2.2.1
 
-## [Unreleased]
+- CHANGELOG update
+
+## 2.2.0
+
+- Colors update
+
+## 2.1.0
+
+- Colors update
+- README update
+
+## 2.0.0
+
+- Update README
+- Logo added
+
+## 1.0.0
+
+- Complete colors are changed 
+
+## 0.0.1
 
 - Initial release
