@@ -1,12 +1,12 @@
 {
-  "name": "dark-theme",
+  "name": "dark-theme-sm",
   "displayName": "Dark theme",
   "description": "Its the dark theme for developers",
   "version": "0.0.1",
   "publisher": "SIRILMP",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sirilmp/dark-theme"
+    "url": "https://github.com/sirilmp/dark-theme-vscode"
   },
   "keywords": [
     "theme",

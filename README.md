@@ -1,16 +1,23 @@
-# dark-theme README
+# Dark Theme By SIRIL MP
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I know most of the developers are liked dark theme so that's why I created only the dark theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Install 
 
-## For more information
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm).
+2. Click on the "Install" button.
+3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## 🐞🐞 For Bugs 🐞🐞
+
+* [github](https://github.com/sirilmp/dark-theme-vscode)
+
+
+## ⭐⭐ Star Rate & Write a Review ⭐⭐
+
+* If you liked this theme then please [star rate & write a review](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm&ssr=false#review-details) my work.
+
 
 **Enjoy!**
