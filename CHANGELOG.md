@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 2.2.3
+
+- colors update
+
 ## 2.2.2
 
 - package.json update

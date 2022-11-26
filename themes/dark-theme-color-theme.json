@@ -30,7 +30,7 @@
 		"debugToolBar.border": "#ff000000",
 		"debugView.stateLabelBackground": "#001427",
 		"disabledForeground": "#d7e3fc54",
-		"dropdown.background":"#04203b",
+		"dropdown.background": "#04203b",
 		"dropdown.border": "#001427",
 		"dropdown.foreground": "#d7e3fc",
 		// E
@@ -64,6 +64,8 @@
 		"extensionButton.prominentForeground": "#abc4ff",
 		"extensionButton.prominentBackground": "#04203b",
 		"extensionButton.prominentHoverBackground": "#052746",
+		"editorUnnecessaryCode.opacity": "#ff000041",
+		"editorUnnecessaryCode.border": "#00a6fb",
 		// F
 		"focusBorder": "#ff000000",
 		"foreground": "#abc4ff",
@@ -89,7 +91,7 @@
 		"list.inactiveSelectionBackground": "#abc4ff13",
 		"list.inactiveSelectionIconForeground": "#abc4ff",
 		"list.warningForeground": "#ffbd00",
-		"list.activeSelectionForeground":"#9ebbfec6",
+		"list.activeSelectionForeground": "#9ebbfec6",
 		// M
 		"menu.background": "#052746",
 		"menu.foreground": "#abc4ffc1",
@@ -112,7 +114,7 @@
 		"settings.dropdownBorder": "#04203b",
 		"settings.dropdownListBorder": "#001427",
 		"settings.focusedRowBorder": "#04203b",
-		"settings.headerBorder":"#d7e3fc",
+		"settings.headerBorder": "#d7e3fc",
 		"sideBar.background": "#001427",
 		"sideBar.border": "#04203b",
 		"sideBar.foreground": "#d7e3fc",
@@ -176,7 +178,24 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#7FB77E"
+			}
+		},
+		{
+			"name": "unknown",
+			"scope": [
+				"meta.object-literal.key",
+				"meta.object.member",
+				"meta.objectliteral",
+				"meta.block",
+				"meta.block",
+				"meta.block",
+				"meta.method.declaration",
+				"meta.class",
+				"source",
+			],
+			"settings": {
+				"foreground": "#A66CFF"
 			}
 		},
 		{
@@ -206,7 +225,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#F07DEA"
 			}
 		},
 		{
@@ -226,7 +245,18 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#7b2cbf"
+			}
+		},
+		{
+			"name": "import keyword and from keyword",
+			"scope": [
+				"keyword.control.import",
+				"keyword.control.from",
+				"keyword.control.as",
+			],
+			"settings": {
+				"foreground": "#cdb4db"
 			}
 		},
 		{
@@ -250,7 +280,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#FFB9B9"
 			}
 		},
 		{
@@ -259,7 +289,16 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#A5F1E9",
+			}
+		},
+		{
+			"name": "importNames",
+			"scope": [
+				"variable.other.readwrite.alias"
+			],
+			"settings": {
+				"foreground": "#f4a261",
 			}
 		},
 		{
@@ -286,6 +325,16 @@
 			],
 			"settings": {
 				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "string single quoted",
+			"scope": [
+				"string.quoted.single",
+				
+			],
+			"settings": {
+				"foreground": "#ccd5ae"
 			}
 		},
 		{
