@@ -1,7 +1,8 @@
-# Dark Theme By SIRIL MP
+# Dark VS Code theme designed By SIRIL MP
 
+The most of the developers are liked dark themes so that's why I created only the dark theme now but in future, I am planning more themes.
 
-I know most of the developers are liked dark themes so that's why I created only the dark theme.
+![Dark VS Code theme](https://github.com/sirilmp/dark-theme-vscode/blob/main/preview.png)
 
 ### Install 
 
