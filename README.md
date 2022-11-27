@@ -21,7 +21,7 @@ I know most of the developers are liked dark themes so that's why I created only
 
 ### 📝 Any Suggestions 🧏
 
-* If you have any suggestions and feedbacks then please [write](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm&ssr=false#review-details) here.
+* If you have any suggestions and feedbacks then please write [here](https://marketplace.visualstudio.com/items?itemName=SIRILMP.dark-theme-sm&ssr=false#review-details).
 
 
 **Enjoy!**

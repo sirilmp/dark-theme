@@ -1,6 +1,11 @@
 
 # dark-theme
 
+## 2.2.7
+
+- Unnecessary border removed
+- README update
+
 ## 2.2.4
 
 - package updating
