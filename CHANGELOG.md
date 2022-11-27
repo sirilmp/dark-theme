@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 2.2.8
+
+- README update
+
 ## 2.2.7
 
 - Unnecessary border removed
