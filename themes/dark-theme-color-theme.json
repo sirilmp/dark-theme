@@ -14,6 +14,9 @@
 		"button.background": "#052746",
 		"button.foreground": "#abc4ff",
 		"button.hoverBackground": "#053058",
+		"button.secondaryBackground": "#abc4ff",
+		"button.secondaryForeground": "#052746",
+		"button.secondaryHoverBackground": "#abc4ffc1",
 		// C
 		"checkbox.background": "#052746",
 		"checkbox.border": "#052746",
@@ -37,7 +40,7 @@
 		"editor.background": "#001427",
 		"editor.findMatchHighlightBackground": "#abc4ff20",
 		"editor.foreground": "#d7e3fc",
-		"editor.selectionBackground": "#04203b",
+		"editor.selectionBackground": "#024482",
 		"editor.wordHighlightBackground": "#abc4ff13",
 		"editor.wordHighlightStrongBackground": "#abc4ff20",
 		"editor.wordHighlightStrongBorder": "#abc4ff",
@@ -245,7 +248,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#7b2cbf"
+				"foreground": "#6E85B7"
 			}
 		},
 		{
@@ -267,7 +270,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -293,7 +296,7 @@
 			}
 		},
 		{
-			"name": "importNames",
+			"name": "import names",
 			"scope": [
 				"variable.other.readwrite.alias"
 			],
@@ -331,10 +334,29 @@
 			"name": "string single quoted",
 			"scope": [
 				"string.quoted.single",
-				
 			],
 			"settings": {
 				"foreground": "#ccd5ae"
+			}
+		},
+		{
+			"name": "documentation",
+			"scope": [
+				"punctuation.definition.block.tag",
+				"storage.type.class"
+			],
+			"settings": {
+				"foreground": "#28ffbfc0"
+			}
+		},
+		{
+			"name": "documentation description",
+			"scope": [
+				"comment.block.documentation",
+			],
+			"settings": {
+				"foreground": "#235952",
+				"fontStyle": "italic"
 			}
 		},
 		{
