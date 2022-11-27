@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 2.2.4
+
+- package updating
+
 ## 2.2.3
 
 - colors update
