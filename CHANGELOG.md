@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 3.0.0
+
+- Dark neon Theme
+
 ## 2.2.8
 
 - README update

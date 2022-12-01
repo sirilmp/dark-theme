@@ -80,8 +80,8 @@
 		"input.foreground": "#abc4ff",
 		"input.placeholderForeground": "#abc4ffc1",
 		"inputOption.activeBorder": "#abc4ff",
-		"inputValidation.errorBackground": "#ff0054",
-		"inputValidation.warningForeground": "#ff0000",
+		"inputValidation.errorBackground": "#ff0000",
+		"inputValidation.warningForeground": "#ffbd00",
 		// J
 		// K
 		// L

@@ -41,9 +41,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "dark-theme",
+        "label": "Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-theme-color-theme.json"
+      },
+      {
+        "label": "Dark Neon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-neon-theme-color-theme.json"
       }
     ]
   }
