@@ -165,7 +165,7 @@
 		"titleBar.activeBackground": "#041C32",
 		"titleBar.activeForeground": "#eeefff",
 		"titleBar.inactiveBackground": "#010e1a",
-		"titleBar.inactiveForeground": null,
+		"titleBar.inactiveForeground": "#eeefffd4",
 		"notifications.background": "#01111d",
 		"notifications.border": "#262a39",
 		"notificationCenter.border": "#262a39",
