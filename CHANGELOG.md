@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 3.1.3
+
+- Dark Minimal Theme 
+
 ## 3.0.2
 
 - Dark Neon titleBar.inactiveForeground color changed

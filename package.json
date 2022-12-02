@@ -49,6 +49,11 @@
         "label": "Dark Neon Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-neon-theme-color-theme.json"
+      },
+      {
+        "label": "Dark Minimal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-minimal-theme-color-theme.json"
       }
     ]
   }
