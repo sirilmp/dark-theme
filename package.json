@@ -1,6 +1,6 @@
 {
   "name": "dark-theme-sm",
-  "displayName": "Dark theme",
+  "displayName": "Dark Theme",
   "description": " dark theme for VS Code",
   "version": "3.1.1",
   "publisher": "SIRILMP",
@@ -10,6 +10,7 @@
     "email": "sirilmp.online@gmail.com",
     "url": "https://sirilmphilip.online/"
   },
+  "homepage": "https://dark-theme.sirilmphilip.online/",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -54,6 +55,11 @@
         "label": "Dark Minimal Theme(SM)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-minimal-theme-color-theme.json"
+      },
+      {
+        "label": "Dark Soft Theme(SM)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-soft-theme-color-theme.json"
       }
     ]
   }

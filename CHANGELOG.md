@@ -1,11 +1,15 @@
 
 # dark-theme
 
+## 3.2.0
+
+- Dark Soft Theme
+
 ## 3.1.1
 
 - Themes Name changed
 
-## 3.1.o
+## 3.1.0
 
 - Dark Minimal Theme 
 
