@@ -1,6 +1,10 @@
 
 # dark-theme
 
+## 3.2.1
+
+- Dark Soft Theme color change
+
 ## 3.2.0
 
 - Dark Soft Theme

@@ -270,7 +270,7 @@
             "name": "Html punctuations tags",
             "scope": "punctuation.definition.tag.end, punctuation.definition.tag.begin, punctuation.definition.tag",
             "settings": {
-                "foreground": "#E9777790"
+                "foreground": "#00acb592"
             }
         },
         {
