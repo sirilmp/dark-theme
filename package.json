@@ -2,15 +2,15 @@
   "name": "dark-theme-sm",
   "displayName": "Dark Theme",
   "description": " dark theme for VS Code",
-  "version": "3.6.0",
+  "version": "3.8.0",
   "publisher": "SIRILMP",
   "license": "MIT",
   "author": {
     "name": "SIRIL M PHILIP",
     "email": "sirilmp.online@gmail.com",
-    "url": "https://sirilmp.online/"
+    "url": "https://sirilmp.com/"
   },
-  "homepage": "https://dark-theme.sirilmp.online/",
+  "homepage": "https://dark-theme.sirilmp.com/",
   "icon": "iconv2.png",
   "repository": {
     "type": "git",
@@ -41,6 +41,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Dark Charcoal Theme(SM)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-charcoal-color-theme.json"
+      },
       {
         "label": "Dark Theme(SM)",
         "uiTheme": "vs-dark",
