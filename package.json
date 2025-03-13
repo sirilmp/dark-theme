@@ -44,7 +44,7 @@
       {
         "label": "Dark Charcoal Theme(SM)",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-charcoal-color-theme.json"
+        "path": "./themes/dark-charcoal-theme-color-theme.json"
       },
       {
         "label": "Dark Theme(SM)",
